@@ -8,4 +8,5 @@ app = FastAPI(
 def home():
     return {
         "message": "FamilyShield AI Backend Running"
+        
     }
