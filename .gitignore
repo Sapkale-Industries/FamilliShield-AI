@@ -157,3 +157,8 @@ node_modules/
 # Build
 dist/
 build/
+
+# Claude / Qodo
+.claude/
+AGENTS.md
+CLAUDE.md
